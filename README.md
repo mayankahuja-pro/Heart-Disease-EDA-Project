@@ -5,26 +5,7 @@
 **Short description:**
 An in-depth exploratory data analysis project to uncover key factors influencing heart disease, understand correlations between medical indicators, and prepare the dataset for predictive modeling.
 
----
-
-## Table of Contents
-
-1. [Overview](#overview)
-2. [Dataset](#dataset)
-3. [Objectives](#objectives)
-4. [Repository Structure](#repository-structure)
-5. [Getting Started](#getting-started)
-6. [EDA Steps / What I did](#eda-steps--what-i-did)
-7. [Key Findings](#key-findings)
-8. [How to reproduce](#how-to-reproduce)
-9. [Notebooks & scripts](#notebooks--scripts)
-10. [Visualizations](#visualizations)
-11. [Requirements](#requirements)
-12. [Future Work](#future-work)
-13. [Author / Contact](#author--contact)
-14. [License](#license)
-
----
+ 
 
 ## Overview
 
